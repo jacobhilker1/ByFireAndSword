@@ -3,7 +3,7 @@
 /**
    @author Jacob Hilker
 */
-    private abstract class Character {
+    private class Leader {
 
 
     }
