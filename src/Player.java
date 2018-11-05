@@ -1,3 +1,9 @@
+/**
+*A Player represents a player. It seems fairly obious.
+*@author JH
+*/
+ 
+
 import java.util.Scanner;
 import java.util.Random;
 import java.util.ArrayList;

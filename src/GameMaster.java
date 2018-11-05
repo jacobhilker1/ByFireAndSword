@@ -1,3 +1,7 @@
+/**
+*A GameMaster represents a GM. It seemed obvious.
+*@author Jacob H
+*/
 import java.util.Scanner;
 import java.util.Random;
 import java.util.ArrayList;
